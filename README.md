@@ -1,1 +1,1 @@
-# acinetoscope-toolkit
+# toolkit for eskapee
